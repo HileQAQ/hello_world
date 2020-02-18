@@ -1,2 +1,2 @@
 # hello_world
-Nothing to say.
+Test of hello_world.
